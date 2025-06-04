@@ -1,0 +1,8 @@
+command = "/Users/emchoi/.nix-profile/bin/fish -l -i"
+
+font-family = "Hack Nerd Font Mono"
+font-size = 14
+font-thicken = true
+font-thicken-strength = 31
+
+theme = dark:zenwritten_dark,light:zenwritten_light
